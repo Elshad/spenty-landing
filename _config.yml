@@ -60,7 +60,7 @@ features                                  :
 
   - title                                 : Intuitive and User-Friendly Interface
     description                           : Clean, easy-to-use design to help you track your finances with minimal effort.
-    fontawesome_icon_name                 : mobile-screen
+    fontawesome_icon_name                 : mobile
   
   - title                                 : # Feature List
     description                           : # Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
