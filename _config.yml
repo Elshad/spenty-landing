@@ -40,11 +40,11 @@ features                                  :
 
   - title                                 : Track Your Expenses
     description                           : Quickly add and categorize your expenses to stay on top of your spending.
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : comment-dollar
     
   - title                                 : Log Your Income
     description                           : Effortlessly record your income and monitor your earnings against your expenses.
-    fontawesome_icon_name                 : info-circle
+    fontawesome_icon_name                 : sack-dollar
     
   - title                                 : Spenty GPT
     description                           : Manage your expenses and incomes smartly with Spenty GPT.
