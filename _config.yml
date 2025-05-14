@@ -45,6 +45,10 @@ features                                  :
   - title                                 : Log Your Income
     description                           : Effortlessly record your income and monitor your earnings against your expenses.
     fontawesome_icon_name                 : info-circle
+    
+  - title                                 : Spenty GPT
+    description                           : Manage your expenses and incomes smartly with Spenty GPT.
+    fontawesome_icon_name                 : magic
 
   - title                                 : Inter-Account Transfers
     description                           : Seamlessly manage transfers between your accounts for a more complete view of your finances.
